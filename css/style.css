@@ -1,6 +1,9 @@
 body{
     background-color: #fff;
 }
+.body-text{
+    margin: 10%;
+}
 h1{
     color: #fff;
     font-family: sans-serif;
@@ -8,17 +11,17 @@ h1{
     font-weight: 300;
     text-align: center;
     margin-top: -350px;
-    margin-bottom: 350px;
+    margin-bottom: 325px;
 }
 h2{
     color: rgb(9,109,121,1);
-    margin: 5%;
+    /* margin: 5%; */
 }
 .s2{
     text-align: right;
 }
 p{
-    margin-left: 5%;
-    margin-right: 5%;
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
     font-weight: 700;
 }
