@@ -22,3 +22,10 @@ h2{
 p{
     font-weight: 700;
 }
+footer{
+    height: 150px;
+    background-color: rgba(0, 29, 36, 1);
+    color: #fff;
+    text-align: center;
+    padding-top: 73px;
+}
